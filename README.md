@@ -23,7 +23,12 @@ Movie Verse is a movie search web application that allows users to explore and s
 
 ## Project Preview
 
-![MovieVerse Home-page & seach-page]
+
+## Search Page 
+![Search Page](screenshots/search-page.png)
+
+## Home Page
+![Home Page](screenshots/home-page.png)
 
 ## Author
 
