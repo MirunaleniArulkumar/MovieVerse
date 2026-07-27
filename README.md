@@ -24,10 +24,10 @@ Movie Verse is a movie search web application that allows users to explore and s
 ## Project Preview
 
 ## Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](https://raw.githubusercontent.com/MirunaleniArulkumar/MovieVerse/main/screenshots/home-page-preview.png)
 
 ## Movie Suggestion Page
-![Movie Suggestion Page](screenshots/movie-suggestion-page.png)
+![Movie Suggestion Page](https://raw.githubusercontent.com/MirunaleniArulkumar/MovieVerse/main/screenshots/movie-suggestion-preview.png)
 
 ## Author
 
